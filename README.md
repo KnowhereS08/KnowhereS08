@@ -24,12 +24,12 @@ I'm passionate about combining **security thinking with practical engineering** 
 
 **Currently:**
 * 🎓 Final-year Computer Engineering student, SPPU (expected graduation: June 2027)
-* 🔐 Sharpening offensive security skills through TryHackMe, HackTheBox, and PortSwigger Web Security Academy
+* 🔐 Sharpening offensive security skills through TryHackMe and HackTheBox
 * 🛠️ Building a capstone project at the intersection of cybersecurity and AI
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mongodb,express,html,css,linux,git,vscode,&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mongodb,html,css,linux,git,vscode,&perline=12" />
 </p>
 
 **Security Tools:** Burp Suite • Metasploit • GVM/OpenVAS • Wireshark
@@ -39,10 +39,5 @@ I'm passionate about combining **security thinking with practical engineering** 
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-github-handle/your-github-handle/output/github-contribution-grid-snake.svg"/>
 </p>
-
-### ✨ Philosophy
-> I probe systems with curiosity, patch with logic, and never stop chasing the next vulnerability — or the next fix.
-
----
 
 > *Feel free to explore my repositories and drop a ⭐ if you find something interesting!*
