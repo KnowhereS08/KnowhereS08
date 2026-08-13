@@ -29,7 +29,7 @@ I'm passionate about combining **security thinking with practical engineering** 
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,mongodb,express,html,css,linux,git,docker,vscode,postman&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mongodb,express,html,css,linux,git,vscode,&perline=12" />
 </p>
 
 **Security Tools:** Burp Suite • Metasploit • GVM/OpenVAS • Wireshark
