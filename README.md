@@ -17,6 +17,7 @@ I've worked on:
 * 🤖 Personal AI assistant — **J.A.R.V.I.S.**, with speech-to-text pipelines
 
 💡 **Interests:** Offensive Security, Web App Security (OWASP), CTFs, Full-Stack Development
+
 🎯 **Goal:** Bring a security-engineer's mindset to building resilient, production-ready software
 
 ---
