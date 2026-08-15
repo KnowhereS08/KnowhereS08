@@ -9,12 +9,11 @@
 ## 🧠 About Me
 
 I'm a Computer Engineering student (SPPU) using a **cybersecurity-first lens** to build secure, full-stack applications.
-My focus spans **offensive security, web application vulnerabilities, and secure system design**, backed by hands-on CTF practice and a growing MERN stack skill set.
+My focus spans **offensive security, web application vulnerabilities, and secure system design**, backed by hands-on CTF practice.
 
 I've worked on:
 * 🛡️ Cybersecurity internship @ **ApexPlanets Software Ltd**
-* 🔍 Fraud-detection systems — **Project AURA** (gold-loan fraud detection using sensor + OCR verification)
-* 💬 Full-stack projects — real-time chat clusters, ticket booking systems, batch image processing
+* 🔍 Fraud-detection systems — **VeriFlow** (document Fraud Detection)
 * 🤖 Personal AI assistant — **J.A.R.V.I.S.**, with speech-to-text pipelines
 
 💡 **Interests:** Offensive Security, Web App Security (OWASP), CTFs, Full-Stack Development
@@ -24,13 +23,13 @@ I've worked on:
 
 **Currently:**
 * 🎓 Computer Engineering student, SPPU (Class of 2027)
-* 🚩 Practicing on TryHackMe, HackTheBox & PortSwigger Web Security Academy
-* 🌱 Building toward full-stack + security dual expertise
+* 🚩 Practicing on TryHackMe and LeetCode
+* 🌱 Building toward Web App Development + security (dual expertise)
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,java,cpp,docker,git,linux,githubactions,postman,vscode,figma&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mongodb,mysql,docker,git,linux,githubactions,vscode,figma&perline=12" />
 </p>
 
 ---
