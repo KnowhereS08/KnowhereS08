@@ -30,7 +30,7 @@ I've worked on:
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mysql,git,linux,githubactions,vscode,figma&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mysql,git,linux,vscode,figma&perline=12" />
 </p>
 
 ---
